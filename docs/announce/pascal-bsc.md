@@ -1,5 +1,6 @@
 # Pascal Upgrade of BSC
-
+![1742631235693](https://github.com/user-attachments/assets/76795ad2-2ee0-4a68-a897-16f695274992)![Uploading 1742630812197.png…]()
+![Uploading 1742630819005.png…]()
 <div class="doc-announce-info">
     <span class="version-tag">Hardfork</span>
 </div>
